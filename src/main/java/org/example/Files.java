@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-public class files {
+public class Files {
         public static void main( String[] args ) throws FileNotFoundException
         {
             StringBuilder string=new StringBuilder();
